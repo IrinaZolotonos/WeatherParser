@@ -1,0 +1,15 @@
+C:\ProjectVS\WeatherProject\WeatherWCF\bin\Debug\WeatherWCF.dll.config
+C:\ProjectVS\WeatherProject\WeatherWCF\bin\Debug\WeatherWCF.dll
+C:\ProjectVS\WeatherProject\WeatherWCF\bin\Debug\WeatherWCF.pdb
+C:\ProjectVS\WeatherProject\WeatherWCF\bin\Debug\Parser.exe
+C:\ProjectVS\WeatherProject\WeatherWCF\bin\Debug\MySql.Data.dll
+C:\ProjectVS\WeatherProject\WeatherWCF\bin\Debug\Google.Protobuf.dll
+C:\ProjectVS\WeatherProject\WeatherWCF\bin\Debug\BouncyCastle.Crypto.dll
+C:\ProjectVS\WeatherProject\WeatherWCF\bin\Debug\Parser.pdb
+C:\ProjectVS\WeatherProject\WeatherWCF\bin\Debug\Parser.exe.config
+C:\ProjectVS\WeatherProject\WeatherWCF\bin\Debug\MySql.Data.xml
+C:\ProjectVS\WeatherProject\WeatherWCF\obj\Debug\WeatherWCF.csprojAssemblyReference.cache
+C:\ProjectVS\WeatherProject\WeatherWCF\obj\Debug\WeatherWCF.csproj.CoreCompileInputs.cache
+C:\ProjectVS\WeatherProject\WeatherWCF\obj\Debug\WeatherWCF.csproj.CopyComplete
+C:\ProjectVS\WeatherProject\WeatherWCF\obj\Debug\WeatherWCF.dll
+C:\ProjectVS\WeatherProject\WeatherWCF\obj\Debug\WeatherWCF.pdb

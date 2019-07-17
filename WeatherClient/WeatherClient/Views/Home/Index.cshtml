@@ -1,0 +1,36 @@
+﻿@model List<Models.City>
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<h2>Популярные города России</h2>
+<select>
+    <option disabled="disabled" selected>Выберите город</option>
+    @foreach (var r in Model)
+    {
+        <option value="@r.Id">@r.Name</option>
+    }
+</select>
+
+<h3 class="degrees"></h3>
+
+
+<script>
+    $(document).ready(function () {
+        $('select').on('change', function () {
+            $.ajax({
+                type: 'POST',
+                url: 'Home/GetWeather',
+                data: this.value,
+                success: function (data) {
+                    $(".degrees")[0].innerHTML = "Днем: " + data.day + "&#8451;<br/> Ночью: " + data.night + "&#8451;";
+                },
+                error: function () {
+                    console.log("Произошел сбой!");
+                }
+            });
+        });
+    });
+
+</script>
